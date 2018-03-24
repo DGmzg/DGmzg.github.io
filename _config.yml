@@ -68,8 +68,6 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-# Uyan
-uyan: '2159780'
 
 # Friends
 friends: [
