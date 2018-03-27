@@ -10,7 +10,7 @@ tags:
     - python基础内容
 ---
 # 什么是python
-&ensp;&ensp;&ensp;&ensp;本篇博客内容主要简单的介绍我对python的认识，主要说明[什么是python](#bui1)、[学习python的原因](#bui2)、[学习python的过程](
+&ensp;&ensp;&ensp;&ensp;本篇博客内容主要介绍我对python的认识，简单地陈述说明[什么是python](#bui1)、[学习python的原因](#bui2)、[学习python的过程](
 #bui3)。
 ---
 <p id = "bui1"></p>
