@@ -37,6 +37,7 @@ python的应用范围广泛，其各个岗位薪资也毫不逊色其他编程�
 &ensp;&ensp;&ensp;&ensp;python程序员中有一句话叫做“人生苦短，我学python”恰恰说明了python易学易懂的特性，很多黑python的人说python简单，在我看来这不是
 缺点，而是最大的有点，正如[python之禅](#zen"The Zen of Python")所言，大道至简，最简才是最优。比如所有编程学习者入门要做的第一件事：输出"hello,world"
 python的代码简单明了，代码如下：
+
 >    print("hello,world")
 
 就是这么直接，就是这么任性~
@@ -77,6 +78,6 @@ If the implementation is hard to explain, it's a bad idea.<br>
 If the implementation is easy to explain, it may be a good idea.<br>
 Namespaces are one honking great idea -- let's do more of those!<br>
 
->    —— by Tim Peters.<br>
+—— by Tim Peters.<br>
 
 ---
