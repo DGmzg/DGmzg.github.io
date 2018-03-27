@@ -18,7 +18,7 @@ tags:
 
 <p id = "bui1"></p>
 ## 什么是python
-&ensp;&ensp;&ensp;&ensp;什么是python？作为小白我也不敢妄下定义，[维基百科](https://zh.wikipedia.org/wiki/Python"前往维基百科")中的解释是通用型编程
+&ensp;&ensp;&ensp;&ensp;什么是python？作为小白我也不敢妄下定义，[维基百科](https://zh.wikipedia.org/wiki/Python)中的解释是通用型编程
 语言、解释型编程语言。对此我看了一些相关介绍后依然一头雾水，但是随着不断地学习、练习，我对python语言有了一些个人理解：“通用型”是说python的应用范围广，比
 如python可以做web开发、游戏编程、系统运维等，而“解释型”则是说python的编程过程不需要编译为机器码，而是由解释器“翻译”成机器码并逐句运行。这里要和java等编
 译语言相对比,打个比方：python和java是两个中国人，他们遇到外国人的时候，python通过自带的翻译人员，直接说中文即可与老外交流，而java没有翻译人员，他自身懂
@@ -47,8 +47,8 @@ python的代码简单明了，代码如下：
 <p id = "bui3"></p>
 ## 学习python的过程
 &ensp;&ensp;&ensp;&ensp;python目前有两个版本：python 2.x 以及python 3.x，由于2.x版本在2020年将停止支持，所以我学习的是python3。python3的学习资源
-相对2来说少了很多，我刚开始是选择[W3Cschool](https://www.w3cschool.cn/python3/index.html"跳转到W3Cschool")的python3教程，后来发现内容较少由根据
-知乎大佬们的推荐看了[廖雪峰大佬的教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000 "跳转到教程")，当然
+相对2来说少了很多，我刚开始是选择[W3Cschool](https://www.w3cschool.cn/python3/index.html)的python3教程，后来发现内容较少由根据
+知乎大佬们的推荐看了[廖雪峰大佬的教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)，当然
 大佬的教程跳跃性比较大，学到后面就很难跟上“课后练习”的难度了，需要不断的去百度一些知识点加深理解。刷完所有练习后，我开始看一些python书籍，这里推荐
 《python编程快速上手——让繁琐工作自动化》这本书，跟着学习的时候敲一些小项目代码会很有成就感。
 
