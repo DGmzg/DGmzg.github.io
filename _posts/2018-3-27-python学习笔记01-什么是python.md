@@ -8,10 +8,12 @@ header-img: "img/post-python.jpg"
 tags:
     - python学习笔记
     - python基础内容
+    
 ---
 # 什么是python
 &ensp;&ensp;&ensp;&ensp;本篇博客内容主要介绍我对python的认识，简单地陈述说明[什么是python](#bui1)、[学习python的原因](#bui2)、[学习python的过程](
 #bui3)。
+
 ---
 
 <p id = "bui1"></p>
@@ -22,6 +24,7 @@ tags:
 译语言相对比,打个比方：python和java是两个中国人，他们遇到外国人的时候，python通过自带的翻译人员，直接说中文即可与老外交流，而java没有翻译人员，他自身懂
 外语，直接就能与老外交流。所以python这种解释型语言的有点是开发速度快，他不需要考虑“外语”怎么说，直接就可以进行“交流”，而java等编译语言的优点是执行速度快，
 他无需等待“翻译”的过程。这个例子仅是个人理解，并不是权威解释。
+
 ---
 
 <p id = "bui2"></p>
@@ -45,12 +48,14 @@ python的代码简单明了，代码如下：
 知乎大佬们的推荐看了[廖雪峰大佬的教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000"跳转到教程")，当然
 大佬的教程跳跃性比较大，学到后面就很难跟上“课后练习”的难度了，需要不断的去百度一些知识点加深理解。刷完所有练习后，我开始看一些python书籍，这里推荐
 《python编程快速上手——让繁琐工作自动化》这本书，跟着学习的时候敲一些小项目代码会很有成就感。
+
 ---
 
 <p id = "zen"></p>
 ## 附：python之禅
 >    The Zen of Python
->>Beautiful is better than ugly.
+
+>>    Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
 Complex is better than complicated.
