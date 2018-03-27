@@ -35,7 +35,7 @@ python的应用范围广泛，其各个岗位薪资也毫不逊色其他编程�
 程语言有C、C++、JAVA、PHP,其他类型的语言比如html、matlab、汇编等，虽然都没有深入学习，但仅仅是最基础的内容就足以证明一句调侃——从入门到放弃——绝非空谈啊。
 相比于其他语言，python的数据类型不用声明、没有乱七八糟的括号和符号、依靠缩进来区别各个代码块的特性简直可以称得上小白佳品，其学习体验了令人十分愉悦。
 &ensp;&ensp;&ensp;&ensp;python程序员中有一句话叫做“人生苦短，我学python”恰恰说明了python易学易懂的特性，很多黑python的人说python简单，在我看来这不是
-缺点，而是最大的有点，正如[python之禅](#zen)所言，大道至简，最简才是最优。比如所有编程学习者入门要做的第一件事：输出"hello,world"
+缺点，而是最大的有点，正如[python之禅](#zen)所言，大道至简，最简才是最优。比如所有编程学习者入门要做的第一件事：输出"hello,world"<br>
 python的代码简单明了，代码如下：
 
 >    print("hello,world")
@@ -47,7 +47,7 @@ python的代码简单明了，代码如下：
 <p id = "bui3"></p>
 ## 学习python的过程
 &ensp;&ensp;&ensp;&ensp;python目前有两个版本：python 2.x 以及python 3.x，由于2.x版本在2020年将停止支持，所以我学习的是python3。python3的学习资源
-相对2来说少了很多，我刚开始是选择[W3Cschool](https://www.w3cschool.cn/python3/index.html)的python3教程，后来发现内容较少由根据
+相对2来说少了很多，我刚开始是选择W3Cschool的[python3教程](https://www.w3cschool.cn/python3/index.html)，后来发现内容较少由根据
 知乎大佬们的推荐看了[廖雪峰大佬的教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)，当然
 大佬的教程跳跃性比较大，学到后面就很难跟上“课后练习”的难度了，需要不断的去百度一些知识点加深理解。刷完所有练习后，我开始看一些python书籍，这里推荐
 《python编程快速上手——让繁琐工作自动化》这本书，跟着学习的时候敲一些小项目代码会很有成就感。
