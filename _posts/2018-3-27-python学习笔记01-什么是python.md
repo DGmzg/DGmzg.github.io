@@ -13,6 +13,7 @@ tags:
 &ensp;&ensp;&ensp;&ensp;本篇博客内容主要介绍我对python的认识，简单地陈述说明[什么是python](#bui1)、[学习python的原因](#bui2)、[学习python的过程](
 #bui3)。
 ---
+
 <p id = "bui1"></p>
 ## 什么是python
 &ensp;&ensp;&ensp;&ensp;什么是python？作为小白我也不敢妄下定义，[维基百科](https://zh.wikipedia.org/wiki/Python"前往维基百科")中的解释是通用型编程
@@ -22,6 +23,7 @@ tags:
 外语，直接就能与老外交流。所以python这种解释型语言的有点是开发速度快，他不需要考虑“外语”怎么说，直接就可以进行“交流”，而java等编译语言的优点是执行速度快，
 他无需等待“翻译”的过程。这个例子仅是个人理解，并不是权威解释。
 ---
+
 <p id = "bui2"></p>
 ## 学习python的原因
 &ensp;&ensp;&ensp;&ensp;python是当下十分流行的编程语言，也是一种功能强大的编程语言，其广泛应用于系统编程、网络爬虫、人工智能、科学计算、web开发、系统
@@ -35,6 +37,7 @@ python的代码简单明了，代码如下：
 >    print("hello,world")
 就是这么直接，就是这么任性~
 ---
+
 <p id = "bui3"></p>
 ## 学习python的过程
 &ensp;&ensp;&ensp;&ensp;python目前有两个版本：python 2.x 以及python 3.x，由于2.x版本在2020年将停止支持，所以我学习的是python3。python3的学习资源
@@ -43,6 +46,7 @@ python的代码简单明了，代码如下：
 大佬的教程跳跃性比较大，学到后面就很难跟上“课后练习”的难度了，需要不断的去百度一些知识点加深理解。刷完所有练习后，我开始看一些python书籍，这里推荐
 《python编程快速上手——让繁琐工作自动化》这本书，跟着学习的时候敲一些小项目代码会很有成就感。
 ---
+
 <p id = "zen"></p>
 ## 附：python之禅
 >    The Zen of Python
@@ -65,3 +69,4 @@ Although never is often better than *right* now.
 If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
+---
