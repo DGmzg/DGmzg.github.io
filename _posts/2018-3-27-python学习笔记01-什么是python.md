@@ -53,8 +53,8 @@ python的代码简单明了，代码如下：
 
 <p id = "zen"></p>
 ## 附：python之禅
->    The Zen of Python
 
+>    The Zen of Python<br>
 >>    Beautiful is better than ugly.<br>
 Explicit is better than implicit.<br>
 Simple is better than complex.<br>
