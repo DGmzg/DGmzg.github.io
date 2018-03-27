@@ -25,7 +25,7 @@ tags:
 <p id = "bui2"></p>
 ## 学习python的原因
 &ensp;&ensp;&ensp;&ensp;python是当下十分流行的编程语言，也是一种功能强大的编程语言，其广泛应用于系统编程、网络爬虫、人工智能、科学计算、web开发、系统运维、大数据、云计算、金融以及图形计算等各个方面，其中我们熟知的YouTube、Instagram、Facebook、豆瓣、知乎甚至大型游戏如EVE、文明4等都有python的身影出现。python的应用范围广泛，其各个岗位薪资也毫不逊色其他编程语言，当然，这些都不是我学习python的主要原因，学习python只有一个原因：简洁！在大学期间我接触过的编程语言有C、C++、JAVA、PHP,其他类型的语言比如html、matlab、汇编等，虽然都没有深入学习，但仅仅是最基础的内容就足以证明一句调侃——从入门到放弃——绝非空谈啊。相比于其他语言，python的数据类型不用声明、没有乱七八糟的括号和符号、依靠缩进来区别各个代码块的特性简直可以称得上小白佳品，其学习体验令人十分愉悦。<br>
-&ensp;&ensp;&ensp;&ensp;python程序员中有一句话叫做“人生苦短，我学python”恰恰说明了python易学易懂的特性，很多黑python的人说python简单，在我看来这不是缺点，而是最大的有点，正如[python之禅](#zen)所言，大道至简，最简才是最优。比如所有编程学习者入门要做的第一件事：输出“hello,world”!<br>
+&ensp;&ensp;&ensp;&ensp;python程序员中有一句话叫做“人生苦短，我学python”恰恰说明了python易学易懂的特性，很多黑python的人说python简单，在我看来这不是缺点，而是最大的优点，正如[python之禅](#zen)所言，大道至简，最简才是最优。比如所有编程学习者入门要做的第一件事：输出“hello,world”!<br>
 python的代码简单明了，代码如下：
 
 >    print("hello,world")
